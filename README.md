@@ -1,3 +1,4 @@
+
 # StarringFX
 
 **A GPU-accelerated "star ring" particle effect for HarmonyOS. Native C++ (EGL / OpenGL ES 3) rendering through XComponent, running 3840 ring particles + 192 dust entirely on the vertex shader at 60 fps.**
