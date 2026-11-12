@@ -8,7 +8,7 @@
 ---
 
 ## Preview / 效果预览
-IMG_859.gif
+image:Files/IMG_859.gif
 
 The ring slowly rotates and breathes; particles twinkle, drift with jitter, and periodically "eject" small groups that fade out and refill. An entrance burst animates the ring from a bright center point on surface creation.
 
